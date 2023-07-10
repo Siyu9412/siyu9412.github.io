@@ -1,5 +1,11 @@
 [
   {
+    "link": "https://sliu9412.notion.site/KW-Development-Bank-22e6c0f1306340eeaff2e9eeaa2f9fe2?pvs=4",
+    "icon": "./assets/images/project/xd.jpg",
+    "title": "\"KW development bank\" UX prototype",
+    "desc": "KW Development Bank is a financial service application that has been developed to cater to the financial needs of the users of Waterloo and Kitchener regions of Ontario, Canada. This application provides a range of financial services such as card management, money transfer, financial investment, and many more."
+  },
+  {
     "link": "https://github.com/sliu9412/React-Personal-Website",
     "icon": "./assets/images/project/typescript.jpg",
     "title": "Data driven React Personal Website",
@@ -24,6 +30,12 @@
     "desc": "This is the project for the Assignment1 for Conestoga College PROG8185-23S-Sec1-Web Technologies. It's build by Siyu Liu, Eugenio Contreras Lizana, Asad Ullah Ashraf and Akshat Arora."
   },
   {
+    "link": "https://sliu9412.notion.site/SMS-Fashion-Store-0ca1a047e544461c86ec6b68d040d981?pvs=4",
+    "icon": "./assets/images/project/xd.jpg",
+    "title": "\"SMS\" Online Store prototype",
+    "desc": "This application is an online clothing website based on PC browsers, and the name of the clothing store is \"SMS\". The focus of this project is on young people, with a focus on light luxury and mid-to-high-end fashion."
+  },
+  {
     "link": "https://github.com/sliu9412/PROG8185-23S-Sec1-Web-Technologies",
     "icon": "./assets/images/project/php.jpg",
     "title": "PHP Lab2 Mysql PDO",
@@ -36,10 +48,10 @@
     "desc": "This is the project for the Assignment 2 of PROG8170-23S-Sec1-Software Quality Assurance Technology, to test a console program via NUnit framework."
   },
   {
-    "link": "https://github.com/sliu9412/PROG8150-23W-Sec1-User-Interface-Design-Principles",
+    "link": "https://sliu9412.notion.site/Grocery-Store-Home-Page-5c66b331fc5b498eaace6d24e79420b4?pvs=4",
     "icon": "./assets/images/project/xd.jpg",
-    "title": "Design Applications of PROG8150-23W",
-    "desc": "This is the project for the main applications of User Interface Design Principles cource."
+    "title": "Grocery Store Home Page",
+    "desc": "This project is the in class exercise of PROG8150-23W-Sec1-User Interface Design Principles, I designed this Lau's grocery and got 98% of 100% as a result."
   },
   {
     "link": "https://github.com/sliu9412/PROG8470-23W-Sec1-2-Mobile-Application-Development",
