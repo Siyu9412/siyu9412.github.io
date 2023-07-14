@@ -30,6 +30,12 @@
     "desc": "This is the project for the Assignment2 for Conestoga College PROG8185-23S-Sec1-Web Technologies, it's build by Siyu Liu, Eugenio Contreras Lizana, Asad Ullah Ashraf and Akshat Arora."
   },
   {
+    "link": "https://github.com/sliu9412/PROG8485-Android-Task1-Grocery-Store",
+    "icon": "./assets/images/project/android.jpg",
+    "title": "Android Online Grocery Store SPA",
+    "desc": "This is the a individual project for the Task1 for Conestoga College PROG8485-Mobile Application Development."
+  },
+  {
     "link": "https://github.com/sliu9412/React-Store-AS1-PROG8185-23S-Sec1-Web-Technologies",
     "icon": "./assets/images/project/typescript.jpg",
     "title": "TypeScript React Online Store",
