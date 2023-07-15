@@ -1,5 +1,11 @@
 [
   {
+    "link": "https://github.com/sliu9412/PROG8470-IOS-Lab8-Weather-API",
+    "icon": "./assets/images/project/swift.jpg",
+    "title": "GPS simulator Weather API SPA",
+    "desc": "Lab8 SPA project of PROG8470 IOS development of Conestoga College. This app uses GPS to simulate location, and use the location to generate http request and send to OpenWeather, after getting the json response, use it to set view of screen."
+  },
+  {
     "link": "https://github.com/sliu9412/Asp.Net-EntityFrameworkCore-ORM-Exercise",
     "icon": "./assets/images/project/csharp.jpg",
     "title": "EntityFrameworkCore's [one to one], [one to many] and [many to many] relationship",
@@ -24,22 +30,46 @@
     "desc": "This is the project for the Lab3 for Conestoga College PROG8185-23S-Sec1-Web Technologies. It's a simple web api application for user accounts CRUD."
   },
   {
-    "link": "https://github.com/sliu9412/PHP-Store-Apis-AS2-PROG8185-23S-Sec1-Web-Technologies",
-    "icon": "./assets/images/project/php.jpg",
-    "title": "PHP Online store API project",
-    "desc": "This is the project for the Assignment2 for Conestoga College PROG8185-23S-Sec1-Web Technologies, it's build by Siyu Liu, Eugenio Contreras Lizana, Asad Ullah Ashraf and Akshat Arora."
-  },
-  {
     "link": "https://github.com/sliu9412/PROG8485-Android-Task1-Grocery-Store",
     "icon": "./assets/images/project/android.jpg",
     "title": "Android Online Grocery Store SPA",
     "desc": "This is the a individual project for the Task1 for Conestoga College PROG8485-Mobile Application Development."
   },
   {
+    "link": "https://github.com/sliu9412/PHP-Store-Apis-AS2-PROG8185-23S-Sec1-Web-Technologies",
+    "icon": "./assets/images/project/php.jpg",
+    "title": "PHP Online store API project",
+    "desc": "This is the project for the Assignment2 for Conestoga College PROG8185-23S-Sec1-Web Technologies, it's build by Siyu Liu, Eugenio Contreras Lizana, Asad Ullah Ashraf and Akshat Arora."
+  },
+  {
+    "link": "https://github.com/sliu9412/PROG8470-IOS-Lab7-GPS-simulator",
+    "icon": "./assets/images/project/swift.jpg",
+    "title": "GPS Simulator SPA",
+    "desc": "Lab7 UIKit project of PROG8470 IOS development of Conestoga College. This SPA project use MapKit api and MKMapView to simulate location and other info."
+  },
+  {
     "link": "https://github.com/sliu9412/React-Store-AS1-PROG8185-23S-Sec1-Web-Technologies",
     "icon": "./assets/images/project/typescript.jpg",
     "title": "TypeScript React Online Store",
     "desc": "This is the project for the Assignment1 for Conestoga College PROG8185-23S-Sec1-Web Technologies. It's build by Siyu Liu, Eugenio Contreras Lizana, Asad Ullah Ashraf and Akshat Arora."
+  },
+  {
+    "link": "https://github.com/sliu9412/PROG8470-IOS-Assignment2-Laptop-Monitor-Store",
+    "icon": "./assets/images/project/swift.jpg",
+    "title": "Laptop & Monitor Store",
+    "desc": "Assignment2 project of PROG8470 IOS development of Conestoga College. This app can add laptop into tableView, but the monitor is unavailable."
+  },
+  {
+    "link": "https://github.com/sliu9412/PROG8470-IOS-Lab5-Multiple-Storyboards",
+    "icon": "./assets/images/project/swift.jpg",
+    "title": "Short Stories App for Children",
+    "desc": "Lab5 UIKit project of PROG8470 IOS development of Conestoga College. This project has multiple storeboards with very short stories for diffrent age group children."
+  },
+  {
+    "link": "https://github.com/sliu9412/PROG8470-IOS-Final-Summary-Storyboards",
+    "icon": "./assets/images/project/swift.jpg",
+    "title": "Previous Projects Combination Application",
+    "desc": "Final Exam project of PROG8470 IOS development of Conestoga College. This app combine previous projects together, to list them in a tableView, tap can navigate to target storyboard."
   },
   {
     "link": "https://sliu9412.notion.site/SMS-Fashion-Store-0ca1a047e544461c86ec6b68d040d981?pvs=4",
@@ -54,10 +84,28 @@
     "desc": "PROG8185-23S-Sec1-Web Technologies' Lab2, for exercising how to manipulate local mysql databases by php PDO."
   },
   {
+    "link": "https://github.com/sliu9412/PROG8470-IOS-Midterm-Multi-Storyboards",
+    "icon": "./assets/images/project/swift.jpg",
+    "title": "Multiple Storyboards Project",
+    "desc": "The midterm exam project of PROG8470 IOS development of Conestoga College. This app consists of navigation bar and bottom tab bar, can navigate to different storyboards."
+  },
+  {
+    "link": "https://github.com/sliu9412/PROG8470-IOS-Lab3-Form-Submission",
+    "icon": "./assets/images/project/swift.jpg",
+    "title": "Form Submission SPA",
+    "desc": "Lab3 SPA project of PROG8470 IOS development of Conestoga College, it's a form to let user to submit, then the textfield will display user's inputted information."
+  },
+  {
     "link": "https://github.com/sliu9412/PROG8170-23S-Sec1-AS2",
     "icon": "./assets/images/project/csharp.jpg",
     "title": "Triangle Solver Test Project",
     "desc": "This is the project for the Assignment 2 of PROG8170-23S-Sec1-Software Quality Assurance Technology, to test a console program via NUnit framework."
+  },
+  {
+    "link": "https://github.com/sliu9412/PROG8470-IOS-Lab6-Table-View-Todo-List",
+    "icon": "./assets/images/project/swift.jpg",
+    "title": "Todo List SPA",
+    "desc": "Lab6 SPA project of PROG8470 IOS development of Conestoga College. The data source of this app is UserDefaults, the stored data will be displayed in tableView."
   },
   {
     "link": "https://sliu9412.notion.site/Grocery-Store-Home-Page-5c66b331fc5b498eaace6d24e79420b4?pvs=4",
@@ -66,9 +114,15 @@
     "desc": "This project is the in class exercise of PROG8150-23W-Sec1-User Interface Design Principles, I designed this Lau's grocery and got 98% of 100% as a result."
   },
   {
-    "link": "https://github.com/sliu9412/PROG8470-23W-Sec1-2-Mobile-Application-Development",
+    "link": "https://github.com/sliu9412/PROG8470-IOS-Lab4-Constraint-Layout",
     "icon": "./assets/images/project/swift.jpg",
-    "title": "Mobile Applications of PROG8470-23W",
-    "desc": "This is the project for the main applications of IOS application cource of program PROG8470-23W."
+    "title": "Auto Layout SPA",
+    "desc": "Lab4 SPA project of PROG8470 IOS development of Conestoga College. If the device is rotated from profile orientation to landscape orientation, the distance of element on the screen will not be changed."
+  },
+  {
+    "link": "https://github.com/sliu9412/PROG8470-IOS-Lab2-Simple-Calculator",
+    "icon": "./assets/images/project/swift.jpg",
+    "title": "Simple Calculator",
+    "desc": "Lab2 SPA project of PROG8470 IOS development, it's a simple calculator to increase/decrease 1 or 2 number."
   }
 ]
