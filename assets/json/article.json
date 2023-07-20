@@ -32,9 +32,17 @@
     "icon": "./assets/images/project/swift.jpg"
   },
   {
+    "link": "https://sliu9412.notion.site/MKMapView-and-GPS-Usage-9d87f4b1e3ee401db60a20bb111efdfe?pvs=4",
+    "title": "IOS MKMapView and GPS Usage",
+    "desc": "The basic usage of MKMapView and CCLocationManagementDelegate and MKMapViewDelegate and how to connect two points by generating polyline (it will calculate the shortest path automatically).",
+    "time": "2023-04-14",
+    "category": "IOS",
+    "icon": "./assets/images/project/swift.jpg"
+  },
+  {
     "link": "https://sliu9412.notion.site/The-Way-to-Fix-the-Project-if-It-Doesn-t-Check-the-Coredata-When-Creating-the-Project-700fa6c4c3be429eb48885bbdbc13f65?pvs=4",
     "title": "The Way to Fix the Project if It doesn't Check the Coredata When Creating the Project",
-    "desc": "This article is testing to create two project, one has initialized a core data file, another hasn’t, the main different is the 'Appdelegate' file in the folder.",
+    "desc": "This article is testing to create two project, one has initialized a core data file, another hasn't, the main different is the 'Appdelegate' file in the folder.",
     "time": "2023-03-25",
     "category": "IOS",
     "icon": "./assets/images/project/swift.jpg"
@@ -46,6 +54,22 @@
     "time": "2023-03-21",
     "category": "IOS",
     "icon": "./assets/images/project/swift.jpg"
+  },
+  {
+    "link": "https://sliu9412.notion.site/UIAlertController-Example-068e925be2a54e078acaa996a876a0c2?pvs=4",
+    "title": "UIAlertController Example",
+    "desc": "Alert Dialog can not be set in advance via visible storyboard, this is an simple example of setting UIAlertController and its textfield (the textfield is in the closure, it should be assigned to a property presetted).",
+    "time": "2023-03-18",
+    "category": "IOS",
+    "icon": "./assets/images/project/swift.jpg"
+  },
+  {
+    "link": "https://sliu9412.notion.site/Config-Route-572662d8d88845669d1c83ba1237b7b4?pvs=4",
+    "title": "Angular Router Configuration Examples",
+    "desc": "The Angular Router is set by <router-outlet> tag, when the project is initialized by Angular CLI tool, the app-routing.module.ts file is created at the same time, the routes are configured as JavaScript object as this article shows.",
+    "time": "2023-02-13",
+    "category": "Angular",
+    "icon": "./assets/images/project/angular.jpg"
   },
   {
     "link": "https://sliu9412.notion.site/Basic-usage-of-React-Redux-c1084bd312234a019c6ae13bca9e5529?pvs=4",
