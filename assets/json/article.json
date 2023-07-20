@@ -1,5 +1,13 @@
 [
   {
+    "link": "https://sliu9412.notion.site/Example-RecyclerView-Adaptor-78d1f683e67547c8a013fc380b1df799",
+    "title": "Example: RecyclerView Adaptor to Move Sub Activities",
+    "desc": "RecyclerView will capture the swipe gesture, then move the the layout inside the viewpager2 to another preset activity. The example is set as follows.",
+    "time": "2023-07-20",
+    "category": "Android",
+    "icon": "./assets/images/project/android.jpg"
+  },
+  {
     "link": "https://sliu9412.notion.site/EntityFrameworkCore-s-one-to-one-one-to-many-and-many-to-many-relationship-6c5c896bf6a44aab90d4a6ff5fc71135?pvs=4",
     "title": "EntityFrameworkCore's [one to one], [one to many] and [many to many] relationship",
     "desc": "This article is based on the https://sliu9412.notion.site/Create-ASP-NET-API-App-29abdc4cd5184e91a387a102d6f86a23?pvs=4. To make the testing easier, I have already make the dbservice as in-meory database.",

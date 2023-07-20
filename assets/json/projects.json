@@ -30,6 +30,12 @@
     "desc": "This is the project for the Lab3 for Conestoga College PROG8185-23S-Sec1-Web Technologies. It's a simple web api application for user accounts CRUD."
   },
   {
+    "link": "https://github.com/sliu9412/PROG8485-Android-Excercise-RecyclerView-Adapter",
+    "icon": "./assets/images/project/android.jpg",
+    "title": "Excercise - RecyclerView Adapter",
+    "desc": "The in-class excercide of Conestoga College PROG8485 Mobile Application Development. This application consist a home activity and 3 sub activity, when swipping the screen, it will switch among different sub activities."
+  },
+  {
     "link": "https://github.com/sliu9412/PROG8485-Android-Task1-Grocery-Store",
     "icon": "./assets/images/project/android.jpg",
     "title": "Android Online Grocery Store SPA",
