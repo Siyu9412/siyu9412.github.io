@@ -1,5 +1,21 @@
 [
   {
+    "link": "https://sliu9412.notion.site/Nav-Drawer-53c22c2d14ae416ebcd14ba3c7dd3b5e?pvs=4",
+    "title": "Nav Drawer Usage",
+    "desc": "Drawer Layout is usually used in storing side menu, it's a preset wiget in XML and consists of a LinearLayout (for main content) and a NavigationView (Navigation Menu).",
+    "time": "2023-07-24",
+    "category": "Android",
+    "icon": "./assets/images/project/android.jpg"
+  },
+  {
+    "link": "https://sliu9412.notion.site/Three-Ways-to-Convey-Data-Between-Two-Activities-e610d84cd00b425ead91f7bfb4ebe8d4?pvs=4",
+    "title": "Three Ways to Convey Data Between Two Activities",
+    "desc": "Three ways to convey data between two activities. The two use intent, and the last one use sharePreference.",
+    "time": "2023-07-23",
+    "category": "Android",
+    "icon": "./assets/images/project/android.jpg"
+  },
+  {
     "link": "https://sliu9412.notion.site/Example-RecyclerView-Adaptor-78d1f683e67547c8a013fc380b1df799",
     "title": "Example: RecyclerView Adaptor to Move Sub Activities",
     "desc": "RecyclerView will capture the swipe gesture, then move the the layout inside the viewpager2 to another preset activity. The example is set as follows.",
