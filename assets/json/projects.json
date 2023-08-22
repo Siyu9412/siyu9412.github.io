@@ -1,5 +1,11 @@
 [
   {
+    "link": "https://sliu9412.notion.site/PROG8485-Android-Final-Project-VIBEZ-Music-App-Prototype-3a78ee1e41ee4093b4f41c46cc1cbc36",
+    "icon": "./assets/images/project/xd.jpg",
+    "title": "VIBEZ Music App Social App XD prototype",
+    "desc": "The XD prototype of Conestoga College PROG8485 Android Application Development final project. This project is based on Material offical UI kit, and it has been implemented by the experimental app yet."
+  },
+  {
     "link": "https://github.com/sliu9412/PROG8470-IOS-Lab8-Weather-API",
     "icon": "./assets/images/project/swift.jpg",
     "title": "GPS simulator Weather API SPA",
@@ -82,6 +88,12 @@
     "icon": "./assets/images/project/swift.jpg",
     "title": "Laptop & Monitor Store",
     "desc": "Assignment2 project of PROG8470 IOS development of Conestoga College. This app can add laptop into tableView, but the monitor is unavailable."
+  },
+  {
+    "link": "https://github.com/sliu9412/PROG8485-Android-Class-Exercise-File-Downloader",
+    "icon": "./assets/images/project/android.jpg",
+    "title": "Online File Downloader",
+    "desc": "This In-Class Exercise is using Android DownloadManager to download the file with a public direct link. After tapping the download button, a snackbar will display, until the file has been downloaded to the folder."
   },
   {
     "link": "https://github.com/sliu9412/PROG8470-IOS-Lab5-Multiple-Storyboards",

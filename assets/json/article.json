@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://sliu9412.notion.site/PROG8080-23S-Sec5-Programming-Database-Assignment4-af4475cdc2ca4f13bcd16424d06e1738?pvs=4",
+    "title": "Conestoga College PROG8080 Programming Database Assignment 4 Summary",
+    "desc": "The requirements and sql queries for the Conestoga College PROG8080 Programming Database Assignment 4",
+    "time": "2023-08-22",
+    "category": "SQL",
+    "icon": "./assets/images/project/sql.jpg"
+  },
+  {
+    "link": "https://sliu9412.notion.site/PROG8080-23S-Sec5-Programming-Database-Assignment3-5bfff866e0d94f199a5ddfc44cb1fc86?pvs=4",
+    "title": "Conestoga College PROG8080 Programming Database Assignment 3 Summary",
+    "desc": "The requirements and sql queries for the Conestoga College PROG8080 Programming Database Assignment 3",
+    "time": "2023-08-22",
+    "category": "SQL",
+    "icon": "./assets/images/project/sql.jpg"
+  },
+  {
+    "link": "https://sliu9412.notion.site/PROG8080-23S-Sec5-Programming-Database-Task4-55bfab1068104973bae70c94c8a8a36c?pvs=4",
+    "title": "Conestoga College PROG8080 Programming Database Task 4 Summary",
+    "desc": "The requirements and sql queries for the Conestoga College PROG8080 Programming Database Task 4",
+    "time": "2023-08-22",
+    "category": "SQL",
+    "icon": "./assets/images/project/sql.jpg"
+  },
+  {
+    "link": "https://sliu9412.notion.site/PROG8080-23S-Sec5-Programming-Database-Assignment2-15013ff4ca53492ba9f9c93637b9e7ca?pvs=4",
+    "title": "Conestoga College PROG8080 Programming Database Assignment 2 Summary",
+    "desc": "The requirements and sql queries for the Conestoga College PROG8080 Programming Database Assignment 2",
+    "time": "2023-08-22",
+    "category": "SQL",
+    "icon": "./assets/images/project/sql.jpg"
+  },
+  {
+    "link": "https://sliu9412.notion.site/PROG8080-23S-Sec5-Programming-Database-Task3-3eae4c22b65f4095a74c1da05ad3e78b?pvs=4",
+    "title": "Conestoga College PROG8080 Programming Database Task 3 Summary",
+    "desc": "The requirements and sql queries for the Conestoga College PROG8080 Programming Database Task 3",
+    "time": "2023-08-22",
+    "category": "SQL",
+    "icon": "./assets/images/project/sql.jpg"
+  },
+  {
+    "link": "https://sliu9412.notion.site/PROG8080-23S-Sec5-Programming-Database-Assignment1-707efa6d4b3d4f3d91bbfadd096bb0ab?pvs=4",
+    "title": "Conestoga College PROG8080 Programming Database Assignment 1 Summary",
+    "desc": "The requirements and sql queries for the Conestoga College PROG8080 Programming Database Assignment 1",
+    "time": "2023-08-22",
+    "category": "SQL",
+    "icon": "./assets/images/project/sql.jpg"
+  },
+  {
     "link": "https://sliu9412.notion.site/Nav-Drawer-53c22c2d14ae416ebcd14ba3c7dd3b5e?pvs=4",
     "title": "Nav Drawer Usage",
     "desc": "Drawer Layout is usually used in storing side menu, it's a preset wiget in XML and consists of a LinearLayout (for main content) and a NavigationView (Navigation Menu).",
