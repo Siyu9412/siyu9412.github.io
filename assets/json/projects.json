@@ -6,13 +6,19 @@
     "desc": "The XD prototype of Conestoga College PROG8485 Android Application Development final project. This project is based on Material offical UI kit, and it has been implemented by the experimental app yet."
   },
   {
+    "link": "https://github.com/sliu9412/PROG8185-23S-Sec1-Web-Technologies-Final-Project-Combined-APIs-React-Online-Store",
+    "icon": "./assets/images/project/react.jpg",
+    "title": "\"KWC\" Online Grocery Store Front-end Application",
+    "desc": "The final project of Conestoga College PROG8185-23S-Sec1 Web Technologies combines the previous projects together, there're 3 optional solutions, using PHP(Assignment2), ASP.NET(Assignment3) or Express.js(Assignment4) as the backend, the Assignment 1 as the demo of frontend."
+  },
+  {
     "link": "https://github.com/sliu9412/PROG8470-IOS-Lab8-Weather-API",
     "icon": "./assets/images/project/swift.jpg",
     "title": "GPS simulator Weather API SPA",
     "desc": "Lab8 SPA project of PROG8470 IOS development of Conestoga College. This app uses GPS to simulate location, and use the location to generate http request and send to OpenWeather, after getting the json response, use it to set view of screen."
   },
   {
-    "link": "https://github.com/sliu9412/Asp.Net-EntityFrameworkCore-ORM-Exercise",
+    "link": "https://github.com/sliu9412/PROG8185-23S-Sec1-Web-Technologies-Lab3-EntityFrameworkCore-ORM-Exercise",
     "icon": "./assets/images/project/csharp.jpg",
     "title": "EntityFrameworkCore's [one to one], [one to many] and [many to many] relationship",
     "desc": "This article is based on the https://sliu9412.notion.site/Create-ASP-NET-API-App-29abdc4cd5184e91a387a102d6f86a23?pvs=4. To make the testing easier, I have already make the dbservice as in-meory database."
@@ -36,7 +42,7 @@
     "desc": "This project incorporates Database, Tables and CRUD operations using SQLiteOpenHelper class. The app's target is keeping track of the products and customers via drawerLayout and Fragments."
   },
   {
-    "link": "https://github.com/sliu9412/Lab3_Asp.net_CRUD_User_API",
+    "link": "https://github.com/sliu9412/PROG8185-23S-Sec1-Web-Technologies-Lab3-CRUD-User-API",
     "icon": "./assets/images/project/csharp.jpg",
     "title": "Asp.net CRUD User API",
     "desc": "This is the project for the Lab3 for Conestoga College PROG8185-23S-Sec1-Web Technologies. It's a simple web api application for user accounts CRUD."
@@ -48,10 +54,40 @@
     "desc": "This application use scroll view to display 5 resautants by card view."
   },
   {
+    "link": "https://github.com/sliu9412/PROG8185-23S-Sec1-Web-Technologies-Assignment4-Express.js-Store-APIs",
+    "icon": "./assets/images/project/javascript.jpg",
+    "title": "Online Store API Project (Express.js)",
+    "desc": "The Assignment 4 of Conestoga College PROG8185-23S-Sec1 Web Technologies Course. This project has the same content in comparison with the Assignment 2, but it was refactored by Express.js microservice."
+  },
+  {
+    "link": "https://github.com/sliu9412/PROG8185-23S-Sec1-Web-Technologies-Assignment3-ASP.NET-Store-APIs",
+    "icon": "./assets/images/project/csharp.jpg",
+    "title": "Online Store API Project (ASP.NET)",
+    "desc": "The Assignment 3 of Conestoga College PROG8185-23S-Sec1 Web Technologies Course. This project has the same content in comparison with the Assignment 2, but it was refactored by ASP.NET API Application."
+  },
+  {
+    "link": "https://github.com/sliu9412/PROG8170-23S-Sec1-Software-Quality-Assurance-Assignment4-Automation-Functional-Testing",
+    "icon": "./assets/images/project/selenium.jpg",
+    "title": "Selenium Framework Automation Testing (NUnit)",
+    "desc": "This is the project for the Assignment 3 for Conestoga College PROG8185-23S-Sec1-Web Technologies. It's build by Siyu Liu, Eugenio Contreras Lizana, Asad Ullah Ashraf and Akshat Arora."
+  },
+  {
     "link": "https://github.com/sliu9412/PROG8485-Android-Task6-HRPrima-Localization",
     "icon": "./assets/images/project/android.jpg",
     "title": "HRPrima Employee Management App (Multi-language Support)",
     "desc": "This project bases on the \"HRPrima app\" created in class. The main work of task 6 is making the \"Add Employee\" page support different languages. After editing the different versions values/strings.xml, now the app can display simplified Chinese."
+  },
+  {
+    "link": "https://github.com/sliu9412/PROG8170-23S-Sec1-Software-Quality-Assurance-Midterm-Exam",
+    "icon": "./assets/images/project/csharp.jpg",
+    "title": "Software Quality Assurance Midterm Exam",
+    "desc": "The midterm exam of Conestoga College PROG8170-23S-Sec1 consists of Three Parts: Test Case Development, Test Execution / Defect Logging and Unit Testing."
+  },
+  {
+    "link": "https://github.com/sliu9412/PROG8170-23S-Sec1-Software-Quality-Assurance-Midterm-Practice",
+    "icon": "./assets/images/project/csharp.jpg",
+    "title": "Software Quality Assurance Midterm Practice",
+    "desc": "The midterm practice of Conestoga College PROG8170-23S-Sec1 consists of Three Parts: Test Case Development, Test Execution / Defect Logging and Unit Testing. It's the prework of midterm exam."
   },
   {
     "link": "https://github.com/sliu9412/PROG8485-Android-Task1-Grocery-Store",
@@ -60,28 +96,28 @@
     "desc": "This is the a individual project for the Task1 for Conestoga College PROG8485-Mobile Application Development."
   },
   {
-    "link": "https://github.com/sliu9412/PHP-Store-Apis-AS2-PROG8185-23S-Sec1-Web-Technologies",
-    "icon": "./assets/images/project/php.jpg",
-    "title": "PHP Online store API project",
-    "desc": "This is the project for the Assignment2 for Conestoga College PROG8185-23S-Sec1-Web Technologies, it's build by Siyu Liu, Eugenio Contreras Lizana, Asad Ullah Ashraf and Akshat Arora."
-  },
-  {
     "link": "https://github.com/sliu9412/PROG8470-IOS-Lab7-GPS-simulator",
     "icon": "./assets/images/project/swift.jpg",
     "title": "GPS Simulator SPA",
     "desc": "Lab7 UIKit project of PROG8470 IOS development of Conestoga College. This SPA project use MapKit api and MKMapView to simulate location and other info."
   },
   {
-    "link": "https://github.com/sliu9412/React-Store-AS1-PROG8185-23S-Sec1-Web-Technologies",
-    "icon": "./assets/images/project/typescript.jpg",
-    "title": "TypeScript React Online Store",
-    "desc": "This is the project for the Assignment1 for Conestoga College PROG8185-23S-Sec1-Web Technologies. It's build by Siyu Liu, Eugenio Contreras Lizana, Asad Ullah Ashraf and Akshat Arora."
+    "link": "https://github.com/sliu9412/PROG8185-23S-Sec1-Web-Technologies-Assignment2-PHP-Store-APIs",
+    "icon": "./assets/images/project/php.jpg",
+    "title": "Online Store API Project (PHP)",
+    "desc": "This is the project for the Assignment 2 for Conestoga College PROG8185-23S-Sec1-Web Technologies. It's build by Siyu Liu, Eugenio Contreras Lizana, Asad Ullah Ashraf and Akshat Arora."
   },
   {
     "link": "https://github.com/sliu9412/PROG8485-Android-Assignment1-Delicia-Beverage-Form",
     "icon": "./assets/images/project/android.jpg",
     "title": "Delicia Beverage Online Store Form",
     "desc": "The assignment 1 of PROG8485 Mobile Application development, is creating an order form SPA for a retail store named \"Delicia Beverage\". The content of this project consists of EditText, Radio Group, AutoCompleteTextView etc. When tapping the submit button，if the inputed data is valid, it will display a toast message to display the info."
+  },
+  {
+    "link": "https://github.com/sliu9412/PROG8185-23S-Sec1-Web-Technologies-Assignment1-React-Store-App",
+    "icon": "./assets/images/project/react.jpg",
+    "title": "React Online Store",
+    "desc": "The Assignment 1 of Web Technologies require a group with 4 to 5 members to create a web application by React. The data of the application should be store locally (eg. the data is storing in the localStorage). This project is developed by Siyu Liu, Eugenio Contreras Lizana, Asad Ullah Ashraf and Akshat Arora."
   },
   {
     "link": "https://github.com/sliu9412/PROG8470-IOS-Assignment2-Laptop-Monitor-Store",
@@ -94,6 +130,12 @@
     "icon": "./assets/images/project/android.jpg",
     "title": "Online File Downloader",
     "desc": "This In-Class Exercise is using Android DownloadManager to download the file with a public direct link. After tapping the download button, a snackbar will display, until the file has been downloaded to the folder."
+  },
+  {
+    "link": "https://github.com/sliu9412/PROG8170-23S-Sec1-Software-Quality-Assurance-Assignment3-Performance-Testing",
+    "icon": "./assets/images/project/php.jpg",
+    "title": "Performance Testing and Analysis Project",
+    "desc": "For this assignment, we are going to research into a popular System/Performance Testing Tool, namely Apache JMeter to performance test a local website."
   },
   {
     "link": "https://github.com/sliu9412/PROG8470-IOS-Lab5-Multiple-Storyboards",
@@ -132,10 +174,22 @@
     "desc": "The midterm exam project of PROG8470 IOS development of Conestoga College. This app consists of navigation bar and bottom tab bar, can navigate to different storyboards."
   },
   {
+    "link": "https://github.com/sliu9412/PROG8170-23S-Sec1-Software-Quality-Assurance-Assignment1-Defect-Report",
+    "icon": "./assets/images/project/php.jpg",
+    "title": "Defect Report Testing Project",
+    "desc": "For this assignment, the target is using the MS Azure DevOps defect tracking system to log five issues for a very well-developed software application."
+  },
+  {
     "link": "https://github.com/sliu9412/PROG8485-Android-Task5-SharedPreferences",
     "icon": "./assets/images/project/android.jpg",
-    "title": "SharedPreferences Data Storing and Tetrieving Project",
+    "title": "SharedPreferences Data Storing and Retrieving Project",
     "desc": "This application uses an activity named \"DetailsActivity\". When entering info of three fields into the form and tap the submit button, it will jump to another activity, the data using SharedPreferences to store and retrieved by the second activity."
+  },
+  {
+    "link": "https://github.com/sliu9412/PROG8185-23S-Sec1-Web-Technologies-Lab4-Express.js-API-Excercise",
+    "icon": "./assets/images/project/javascript.jpg",
+    "title": "Express.js + MongoDB Excercise Application",
+    "desc": "The lab 4 of Web Technologies is developed by Express.js, it supports to connect MongoDB and upload file via post method."
   },
   {
     "link": "https://github.com/sliu9412/PROG8470-IOS-Lab3-Form-Submission",
@@ -144,10 +198,10 @@
     "desc": "Lab3 SPA project of PROG8470 IOS development of Conestoga College, it's a form to let user to submit, then the textfield will display user's inputted information."
   },
   {
-    "link": "https://github.com/sliu9412/PROG8170-23S-Sec1-AS2",
-    "icon": "./assets/images/project/csharp.jpg",
-    "title": "Triangle Solver Test Project",
-    "desc": "This is the project for the Assignment 2 of PROG8170-23S-Sec1-Software Quality Assurance Technology, to test a console program via NUnit framework."
+    "link": "https://github.com/sliu9412/PROG8170-23S-Sec1-Software-Quality-Assurance-Assignment2-Unit-Testing",
+    "icon": "./assets/images/project/nunit.jpg",
+    "title": "Triangle Solver Unit Testing Project",
+    "desc": "For this assignment, we are going to develop unit tests for some C# (Class Library - .NET Framework). "
   },
   {
     "link": "https://github.com/sliu9412/PROG8470-IOS-Lab6-Table-View-Todo-List",
