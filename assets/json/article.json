@@ -1,5 +1,45 @@
 [
   {
+    "link": "https://sliu9412.notion.site/Conestoga-College-INFO8240-System-Design-Assignment4-a901599745e3479caf8d9b6e84898761?pvs=4",
+    "title": "Conestoga College INFO8240 System Design Assignment 4",
+    "desc": "The Assignment 4's task including the use case diagram for the use cases of patron, library clerk and library manager; The muti-layer design sequence diagrams; Design Class Diagrams for the CITL system; UML Package Diagrams.",
+    "time": "2023-08-23",
+    "category": "UML",
+    "icon": "./assets/images/project/uml.jpg"
+  },
+  {
+    "link": "https://sliu9412.notion.site/Conestoga-College-INFO8240-System-Design-Assignment3-d6d59e8577f942fbb07076c741fb1bd9?pvs=4",
+    "title": "Conestoga College INFO8240 System Design Assignment 3",
+    "desc": "The Assignment 3's task including creating the class diagram and communication diagram for Library Collections Subsystem, Patron Account Subsystem and Library Borrowing Subsystem.",
+    "time": "2023-08-23",
+    "category": "UML",
+    "icon": "./assets/images/project/uml.jpg"
+  },
+  {
+    "link": "https://sliu9412.notion.site/Conestoga-College-INFO8240-System-Design-Assignment2-3924191bf2c84b758911fa7d19f0bbdd?pvs=4",
+    "title": "Conestoga College INFO8240 System Design Assignment 2",
+    "desc": "The Assignment 2's task including creating a domain class diagram for the partron and library class(and the subclasses for these two); Catelog Item state table with the state machine Diagram.",
+    "time": "2023-08-23",
+    "category": "UML",
+    "icon": "./assets/images/project/uml.jpg"
+  },
+  {
+    "link": "https://sliu9412.notion.site/Conestoga-College-INFO8240-System-Design-Assignment1-6665ef9a34384d7e9b5f77e873cf7f2c?pvs=4",
+    "title": "Conestoga College INFO8240 System Design Assignment 1",
+    "desc": "The Assignment 1's task including figuring out the flow of activities for adding a new patron to the system and converting it into an activity diagram; A system sequence diagram for a patron to search a library item; A use case description for borrowing a library item.",
+    "time": "2023-08-23",
+    "category": "UML",
+    "icon": "./assets/images/project/uml.jpg"
+  },
+  {
+    "link": "https://sliu9412.notion.site/Requirements-Collection-bee26dd7f7bf484ab491af5dfe654d59?pvs=4",
+    "title": "Conestoga College INFO8240 System Design Requirements Collection",
+    "desc": "The virtual library project for researching, it will be used to finish the Assignment 1 to Assignment 4 of Conestoga College INFO8240 System Design. This article is just as the guidance for the Assignments.",
+    "time": "2023-08-23",
+    "category": "UML",
+    "icon": "./assets/images/project/uml.jpg"
+  },
+  {
     "link": "https://sliu9412.notion.site/PROG8080-23S-Sec5-Programming-Database-Assignment4-af4475cdc2ca4f13bcd16424d06e1738?pvs=4",
     "title": "Conestoga College PROG8080 Programming Database Assignment 4 Summary",
     "desc": "The requirements and sql queries for the Conestoga College PROG8080 Programming Database Assignment 4",
