@@ -1,5 +1,13 @@
 [
   {
+    "link": "https://sliu9412.notion.site/Expo-SDK-GPS-hook-f2938ec4665c4b84901b58d16f29d3a8?pvs=74",
+    "title": "(Expo SDK) GPS hook",
+    "desc": "The hook can only be called inside the functional component, like other hooks. The decomposed items, GPSpermissionFailedModal is JSX Element, getGPSCoordinate is the function to be executed inside handlers.",
+    "time": "2023-03-03",
+    "category": "React Native",
+    "icon": "./assets/images/project/react.jpg"
+  },
+  {
     "link": "https://sliu9412.notion.site/Conestoga-College-INFO8240-System-Design-Assignment4-a901599745e3479caf8d9b6e84898761?pvs=4",
     "title": "Conestoga College INFO8240 System Design Assignment 4",
     "desc": "The Assignment 4's task including the use case diagram for the use cases of patron, library clerk and library manager; The muti-layer design sequence diagrams; Design Class Diagrams for the CITL system; UML Package Diagrams.",
