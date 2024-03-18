@@ -6,6 +6,12 @@
     "desc": "ShareParking is a mobile app in transportation and technology fields which connects individuals who need to park their car or lease non-used parking spaces. Users can quickly locate, book, and share parking spaces, fostering a collaborative and efficient approach to urban parking challenges. "
   },
   {
+    "link": "https://github.com/sliu9412/PROG8790-24W-Sec3-Android-Wear-Assignment2-Notification-Todo-List",
+    "icon": "./assets/images/project/kotlin.jpg",
+    "title": "WearOS Notification Todo List",
+    "desc": "The project of this assignment should be a todo list Application with upcoming events' notification functionality. While the requirement doc shows it should be developed by Java, but actually Kotlin is also acceptable, it is developed by Kotlin with Jetpack."
+  },
+  {
     "link": "https://sliu9412.notion.site/Digital-Twin-For-Karmax-59f6aeb6edc343f3b6805f693dac59a4?pvs=4",
     "icon": "./assets/images/project/javascript.jpg",
     "title": "Karmax Digital Twin Project",
