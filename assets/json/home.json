@@ -1,14 +1,14 @@
 {
-  "Caption": {
-    "backgroundImagePath": "./assets/images/HomePageCarousel.jpg",
-    "mainCaption": "Explorer of Careers",
-    "subCaption": "Graduate in April 2024",
-    "subCaption2": "I'm seeking these opportunities",
-    "subCaption2HTML": "<span>Mobile Application Developer</span><br><span>Web Developer</span><br><span>UX Designer</span>"
-  },
-  "AboutMeSection": {
-    "leftHTML": "<p>As a postgraduate student in Mobile Solution Development at Conestoga College, I proficient in both web and mobile development, adept at creating seamless and user-friendly digital experiences. Expertise includes designing responsive and intuitive user interfaces, optimizing performance across platforms, and implementing cutting-edge technologies to deliver innovative solutions. Strong problem-solving abilities, collaborative mindset, and a passion for staying abreast of industry trends, ensuring the delivery of high-quality applications in dynamic environments. </p>",
-    "rightImagePath": "./assets/images/Avator.jpg"
-  },
-  "Footer": "github.com/sliu9412 All Rights Reserved."
+    "Caption": {
+        "backgroundImagePath": "./assets/images/HomePageCarousel.jpg",
+        "mainCaption": "Explorer of Careers",
+        "subCaption": "",
+        "subCaption2": "I'm seeking these opportunities",
+        "subCaption2HTML": "<span>Mobile Application Developer</span><br><span>Web Developer</span><br><span>UX Designer</span>"
+    },
+    "AboutMeSection": {
+        "leftHTML": "<p>As a postgraduate student in Mobile Solution Development at Conestoga College, I proficient in both web and mobile development, adept at creating seamless and user-friendly digital experiences. Expertise includes designing responsive and intuitive user interfaces, optimizing performance across platforms, and implementing cutting-edge technologies to deliver innovative solutions. Strong problem-solving abilities, collaborative mindset, and a passion for staying abreast of industry trends, ensuring the delivery of high-quality applications in dynamic environments. </p>",
+        "rightImagePath": "./assets/images/Avator.jpg"
+    },
+    "Footer": "github.com/sliu9412 All Rights Reserved."
 }
